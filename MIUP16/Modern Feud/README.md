@@ -7,12 +7,12 @@ Distancia entre dois pontos:
 | x_{1} - x_{2} | + | y_{1} - y_{2} |
 ```
 
-###Input:
+### Input:
 
 Começa por pedir o numero de pontos var `N`.
 Depois todas as linhas iram dar 3 integers `X, Y, F` que representa as coordenadas e a familia.
 
 
-###Output:
+### Output:
 
 Programa dá output da distancia minima entre dois membros distintos
