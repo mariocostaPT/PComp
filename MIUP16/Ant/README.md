@@ -17,5 +17,5 @@ Um output por caso com o total que a formiga tera de pagar arredondado as 3 casa
 Seguindo a logica da resolução parcial, e sendo `p` o pagamento anual pela formiga:
 
 ```math
-p=(B(1+r)^n)/\Sigma_{n+r}^(n-1)
+p=(B(1+r)^n)/\Sigman+r^(n-1)
 ```
