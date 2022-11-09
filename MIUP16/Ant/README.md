@@ -49,3 +49,5 @@ Sn(r-1) = a(r^n-1)
 ```math
 Sn = {a(r^{n} - 1)}/{r-1}
 ```
+
+Sendo obtendo um `O(n)`
